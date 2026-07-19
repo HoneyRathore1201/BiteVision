@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BiteVision</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="pick_gallery">Pick from Gallery</string>
+    <string name="analyzing">Analyzing image…</string>
+    <string name="human_detected">Human Detected</string>
+    <string name="animal_detected">Animal Detected</string>
+    <string name="object_detected">Object / Scene</string>
+    <string name="confidence">Confidence</string>
+    <string name="top_predictions">Top Predictions</string>
+</resources>

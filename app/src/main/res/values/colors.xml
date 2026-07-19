@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base -->
+    <color name="bg_dark">#0D0D1A</color>
+    <color name="card_bg">#1A1A2E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_subtitle">#8899AA</color>
+
+    <!-- Category colors -->
+    <color name="human_color">#1E40AF</color>       <!-- Deep blue -->
+    <color name="human_accent">#3B82F6</color>
+    <color name="animal_color">#065F46</color>       <!-- Deep green -->
+    <color name="animal_accent">#10B981</color>
+    <color name="other_color">#5B21B6</color>        <!-- Deep purple -->
+    <color name="other_accent">#8B5CF6</color>
+
+    <!-- Accent palette -->
+    <color name="accent_green">#10B981</color>
+    <color name="accent_purple">#8B5CF6</color>
+    <color name="accent_blue">#3B82F6</color>
+
+    <!-- Material primary (required) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+</resources>
